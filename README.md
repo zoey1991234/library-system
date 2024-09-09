@@ -1,12 +1,13 @@
 # library-system
 
 
-#運行配置
+## 運行配置
 
 IntelliJ IDEA:
 點擊專案 > Project Structer> Modules > Dependencies > + > JARs or directories。
 
 選擇下載的 `rs2xml.jar` 跟 `mysql-connector-java.jar`
+
 ![image](https://github.com/user-attachments/assets/043becb9-65a7-4b26-bc5b-9e5d5db90264)![image](https://github.com/user-attachments/assets/bd72e023-3cb1-4cf0-994a-da27790c2f2d)
 
 設置環境變數將資料庫的密碼設置在環境變數中，然後在程式碼中讀取該變數
@@ -29,7 +30,11 @@ IntelliJ IDEA:
 
 ![image](https://github.com/user-attachments/assets/ddeac98a-e9e0-42f2-bd18-55fecdc3741b)
 
-UML Class Diagram![image](https://github.com/user-attachments/assets/790825f4-e1a4-451e-96e4-06cb4ca88acc) ![image](https://github.com/user-attachments/assets/f82eeb54-2f48-42f8-bfde-2855877ce3a6)
+UML Class Diagram
+
+![image](https://github.com/user-attachments/assets/790825f4-e1a4-451e-96e4-06cb4ca88acc) 
+
+![image](https://github.com/user-attachments/assets/f82eeb54-2f48-42f8-bfde-2855877ce3a6)
 
 資料庫
 
