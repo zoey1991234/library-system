@@ -18,15 +18,17 @@ IntelliJ IDEA:
  'echo %DB_PASSWORD%' 確保這個命令返回了正確的密碼，而不是 %DB_PASSWORD%。
  * 重新啟動IntelliJ IDEA。
 
-功能架構圖
+---------------------------------------
 
-用戶分為
+使用者分為
 
 讀者
 借書 還書(有罰款機制) 按主題/作者/標題搜尋書籍 查看書籍 查看個人訊息
 
 管理員
 借出書籍 歸還書籍 新增書籍 新增使用者  檢視書籍 檢視使用者 檢視已借出書籍 重置資料庫
+
+功能架構圖
 
 ![image](https://github.com/user-attachments/assets/ddeac98a-e9e0-42f2-bd18-55fecdc3741b)
 
