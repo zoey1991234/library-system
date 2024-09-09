@@ -55,11 +55,32 @@ UML Class Diagram
 
 ![image](https://github.com/user-attachments/assets/31f60361-664e-41b2-80b2-562af7dda126)
 
-管理員介面
+## 管理員介面
 
 ![image](https://github.com/user-attachments/assets/2e66ad6e-d2da-4d76-b71b-d681676a45e6)
 
-讀者介面
+檢視書籍
+
+![image](https://github.com/user-attachments/assets/ffc77ebb-d2d6-4df2-be91-5fc434aa7699)
+
+檢視使用者
+
+![image](https://github.com/user-attachments/assets/c3e10f4b-f62f-4bc3-a605-a29bacaefbb9)
+
+檢視已借出書籍
+
+![image](https://github.com/user-attachments/assets/13a34e9e-df01-485f-bf45-73b70ac4e80b)
+
+新稱使用者
+![image](https://github.com/user-attachments/assets/bed73aa6-f982-45b3-9627-de41dcfc7fdb)
+
+新增書籍
+
+![image](https://github.com/user-attachments/assets/8da115ae-4d28-4412-b198-d16a9dc39eab)
+
+
+
+## 讀者介面
 
 ![image](https://github.com/user-attachments/assets/3a40e18e-a040-47e8-882f-d34729c6f307)
 
@@ -85,5 +106,7 @@ UML Class Diagram
 
 ![image](https://github.com/user-attachments/assets/64287c55-0254-402f-b668-302bbea8284b)
 
-還書(輸入歸還ID)
+還書(輸入借閱ID)
+
+![image](https://github.com/user-attachments/assets/516bccce-bab9-41af-b60d-5e2384b63c82)
 
