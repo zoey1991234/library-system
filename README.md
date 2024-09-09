@@ -78,6 +78,7 @@ UML Class Diagram
 ![image](https://github.com/user-attachments/assets/13a34e9e-df01-485f-bf45-73b70ac4e80b)
 
 新稱使用者
+
 ![image](https://github.com/user-attachments/assets/bed73aa6-f982-45b3-9627-de41dcfc7fdb)
 
 新增書籍
@@ -85,7 +86,10 @@ UML Class Diagram
 ![image](https://github.com/user-attachments/assets/8da115ae-4d28-4412-b198-d16a9dc39eab)
 
 建立/重置
-刪除資料庫
+
+![image](https://github.com/user-attachments/assets/07bec547-c6b5-4e40-8b01-0a289a11b5f1)
+
+會刪除資料庫
 
 
 
