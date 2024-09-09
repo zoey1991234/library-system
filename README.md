@@ -29,6 +29,8 @@ IntelliJ IDEA:
 管理員
 借出書籍 歸還書籍 新增書籍 新增使用者  檢視書籍 檢視使用者 檢視已借出書籍 重置資料庫
 
+---------------------------------------
+
 功能架構圖
 
 ![image](https://github.com/user-attachments/assets/ddeac98a-e9e0-42f2-bd18-55fecdc3741b)
@@ -38,6 +40,8 @@ UML Class Diagram
 ![image](https://github.com/user-attachments/assets/790825f4-e1a4-451e-96e4-06cb4ca88acc) 
 
 ![image](https://github.com/user-attachments/assets/f82eeb54-2f48-42f8-bfde-2855877ce3a6)
+
+---------------------------------------
 
 資料庫
 
@@ -54,6 +58,8 @@ UML Class Diagram
 已借出書籍issued
 
 ![image](https://github.com/user-attachments/assets/31f60361-664e-41b2-80b2-562af7dda126)
+
+---------------------------------------
 
 ## 管理員介面
 
