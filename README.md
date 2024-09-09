@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/eeac0fa4-ec0f-47df-a1c2-5ace929bef73)# library-system
+# library-system
 
-![image](https://github.com/user-attachments/assets/82f79bd6-bec6-4563-8f98-b90dedbede01)
+
+#運行配置
 
 IntelliJ IDEA:
 點擊專案 > Project Structer> Modules > Dependencies > + > JARs or directories。
@@ -15,3 +16,33 @@ IntelliJ IDEA:
  *打開命令提示符，輸入以下命令來確認 DB_PASSWORD 環境變數是否設置正確：
  'echo %DB_PASSWORD%' 確保這個命令返回了正確的密碼，而不是 %DB_PASSWORD%。
  *重新啟動IntelliJ IDEA。
+
+功能架構圖
+
+用戶分為
+
+讀者
+借書 還書(有罰款機制) 按主題/作者/標題搜尋書籍 查看書籍 查看個人訊息
+
+管理員
+借出書籍 歸還書籍 新增書籍 新增使用者  檢視書籍 檢視使用者 檢視已借出書籍 重置資料庫
+
+![image](https://github.com/user-attachments/assets/ddeac98a-e9e0-42f2-bd18-55fecdc3741b)
+
+UML Class Diagram![image](https://github.com/user-attachments/assets/790825f4-e1a4-451e-96e4-06cb4ca88acc) ![image](https://github.com/user-attachments/assets/f82eeb54-2f48-42f8-bfde-2855877ce3a6)
+
+資料庫
+
+![image](https://github.com/user-attachments/assets/f44aef82-0a87-496c-9b83-e9139ed939d5)
+
+使用者Users
+
+![image](https://github.com/user-attachments/assets/b66dc826-f39b-450b-9a61-ff7f75ad8773)
+
+書籍Books
+
+![image](https://github.com/user-attachments/assets/82187d86-cbef-480c-a134-5226de7d7189)
+
+已借出書籍issued
+
+![image](https://github.com/user-attachments/assets/31f60361-664e-41b2-80b2-562af7dda126)
