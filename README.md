@@ -78,6 +78,9 @@ UML Class Diagram
 
 ![image](https://github.com/user-attachments/assets/8da115ae-4d28-4412-b198-d16a9dc39eab)
 
+建立/重置
+刪除資料庫
+
 
 
 ## 讀者介面
