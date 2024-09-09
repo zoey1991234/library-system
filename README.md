@@ -15,7 +15,7 @@ IntelliJ IDEA:
  * 設置變數名為 DB_PASSWORD，並在變數值中輸入你的資料庫密碼。
  * 點擊「確定」來保存更改。
  * 打開命令提示符，輸入以下命令來確認 DB_PASSWORD 環境變數是否設置正確：
- 'echo %DB_PASSWORD%' 確保這個命令返回了正確的密碼，而不是 %DB_PASSWORD%。
+ ' echo %DB_PASSWORD% ' 確保這個命令返回了正確的密碼，而不是 %DB_PASSWORD%。
  * 重新啟動IntelliJ IDEA。
 
 ---------------------------------------
